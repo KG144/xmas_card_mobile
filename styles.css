@@ -1,0 +1,39 @@
+body {
+background-color: #2ff806;
+}
+
+div.a {
+    text-align: center;
+}
+
+div.b {
+    text-align: center;
+}
+
+div.c {
+    font-size: 28px;
+    font-family: "Times New Roman";
+    text-align: center;
+    text-indent: 2.0em;
+}
+
+div.d {
+    font-size: 28px;
+    font-family: "Times New Roman";
+    text-align: center;
+    text-indent: 3.0em;
+}
+
+div.e {
+    font-size: 38px;
+    font-family: "Arizonia";
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+body {
+    border: 25px groove #ea170d;
+}
